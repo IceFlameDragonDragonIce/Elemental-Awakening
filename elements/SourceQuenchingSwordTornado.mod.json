@@ -1,0 +1,27 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "source_quenching_sword_tornado",
+    "customModelName": "Normal",
+    "name": "Source Quenching Sword Tornado",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ElementalAwakening"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 12.0,
+    "attackSpeed": 2.0,
+    "enchantability": 22,
+    "damageVsEntity": 4.0,
+    "usageCount": 2032,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

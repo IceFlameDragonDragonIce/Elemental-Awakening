@@ -1,0 +1,23 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:SourceQuenchingSword"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:SourceQuenchingTerraBlock"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:SourceQuenchingSwordGaia"
+    },
+    "name": "charge_synthesis_2",
+    "namespace": "mod"
+  }
+}

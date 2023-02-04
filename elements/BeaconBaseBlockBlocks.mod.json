@@ -1,0 +1,30 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SourceQuenchingAerBlock"
+      },
+      {
+        "value": "CUSTOM:SourceQuenchingTerraBlock"
+      },
+      {
+        "value": "CUSTOM:SourceQuenchingAquaBlock"
+      },
+      {
+        "value": "CUSTOM:SourceQuenchingIgnisBlock"
+      },
+      {
+        "value": "CUSTOM:SourceQuenchingBlock"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "beacon_base_blocks",
+    "namespace": "minecraft"
+  }
+}

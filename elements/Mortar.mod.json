@@ -1,0 +1,24 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:QuartzMortar"
+      },
+      {
+        "value": "CUSTOM:AmethystMortar"
+      },
+      {
+        "value": "CUSTOM:SourceQuenchingMortar"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "mortar",
+    "namespace": "mod"
+  }
+}
